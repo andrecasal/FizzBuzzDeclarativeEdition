@@ -89,9 +89,9 @@ rule.3.output=Buzzy
 
 This repository is part of a programming paradigm showcase:
 
-1. **FizzBuzzImperativeEdition** - Simple, procedural approach with for loops and if statements
-2. **FizzBuzzFPEdition** - Functional programming with streams and predicates  
-3. **FizzBuzzOOPEdition** - Over-engineered enterprise OOP solution with patterns
+1. **[FizzBuzzImperativeEdition](../FizzBuzzImperativeEdition)** - Simple, procedural approach with for loops and if statements
+2. **[FizzBuzzFunctionalEdition](../FizzBuzzFunctionalEdition)** - Functional programming with streams and predicates  
+3. **[FizzBuzzObjectOrientedEdition](../FizzBuzzObjectOrientedEdition)** - Over-engineered enterprise OOP solution with patterns
 4. **FizzBuzzDeclarativeEdition** (this repo) - Configuration-driven, rule-based approach
 
 Each demonstrates different programming paradigms and approaches to solving the same problem.
